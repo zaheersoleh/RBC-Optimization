@@ -1,4 +1,4 @@
-# Production Planning, Revenue Analysis & Optimization
+# Red Brand Canners: Production Planning, Revenue Analysis & Optimization
 
 ## Project Overview:
 
