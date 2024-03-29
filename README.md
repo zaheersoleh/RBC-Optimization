@@ -1,4 +1,4 @@
-Production Planning, Revenue Analysis & Optimization
+# Production Planning, Revenue Analysis & Optimization
 
 ## Project Overview:
 
