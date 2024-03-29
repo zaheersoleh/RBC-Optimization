@@ -1,4 +1,4 @@
-# Group Assignment: Red Brand Canners Case
+Production Planning, Revenue Analysis & Optimization
 
 ## Project Overview:
 
@@ -56,6 +56,5 @@ The Red Brand Canners case presents a complex decision-making scenario where lin
 
 The Red Brand Canners case serves as a comprehensive application of linear optimization methods, particularly leveraging Gurobi in Python, to address complex decision-making challenges. By combining mathematical modeling with computational optimization techniques, the assignment aims to provide actionable insights and recommendations to enhance business operations and profitability.
 
-For further details and inquiries, please refer to the report and associated appendix.
+For further details and inquiries, please refer to the report and associated appendix and report.
 
-*Note: The report will be approximately 3 pages long (excluding figures, graphs, and appendices).*
